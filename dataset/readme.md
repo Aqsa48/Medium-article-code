@@ -1,1 +1,1 @@
-This will contain the dataset of filies i will be using in my medioum artiucles
+This folder contains all the datasets and supporting files used in my Medium articles.
